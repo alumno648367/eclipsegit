@@ -7,6 +7,7 @@ public class eclipsegit {
 
 		
 		int numero= 9;
+		System.out.println(numero);
 	}
 
 }
